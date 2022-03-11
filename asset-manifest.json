@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c2bdfd6d.css",
-    "main.js": "./static/js/main.08468d32.js",
+    "main.js": "./static/js/main.ec42ec05.js",
     "static/js/787.cda612ba.chunk.js": "./static/js/787.cda612ba.chunk.js",
     "static/media/Google.svg": "./static/media/Google.7d098232eddbd5ed9bba89b9092b7b0f.svg",
     "static/media/AppleID.svg": "./static/media/AppleID.a503ed9faebc5e44ce415b2293f86c7d.svg",
@@ -10,11 +10,11 @@
     "static/media/User.svg": "./static/media/User.b3f075ec647080f784ba3fc797cb508f.svg",
     "static/media/LoginButton.svg": "./static/media/LoginButton.9c59da4a20df95f13391589272a9dc38.svg",
     "main.c2bdfd6d.css.map": "./static/css/main.c2bdfd6d.css.map",
-    "main.08468d32.js.map": "./static/js/main.08468d32.js.map",
+    "main.ec42ec05.js.map": "./static/js/main.ec42ec05.js.map",
     "787.cda612ba.chunk.js.map": "./static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2bdfd6d.css",
-    "static/js/main.08468d32.js"
+    "static/js/main.ec42ec05.js"
   ]
 }
